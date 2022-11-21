@@ -1,7 +1,10 @@
-### Olá, Eu sou o Gabriel Yamaguti
+<h1>Olá,<img src="https://user-images.githubusercontent.com/116985295/203150109-3723c0a1-03d0-4397-9d53-c23f0bb82f2c.gif" width="30px"> Eu sou o <b>Gabriel Yamaguti</b></h1>
+
+
 
 - 🌱 Estudando HML, CSS e JavaScript.
 - 📫 Contate-me no email: gabrielyamaguti.contato@gmail.com.
+
 
 <div align="center">
   <a href="https://github.com/gabrielyamaguti">
@@ -15,7 +18,7 @@
   <img align="center" alt="Yama-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="right" alt="Yama-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/0b0011bfaeaa61f4a10b7186437f3561.gif">
 </div>
-
+  
 ##
   <div> 
   <a href="#" target="_blank"><img alt="Youtube-icon" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -27,3 +30,4 @@
   
   ![Snake animation](https://github.com/gabrielyamaguti/gabrielyamaguti/blob/output/github-contribution-grid-snake.svg)
   </div>
+ 
