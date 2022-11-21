@@ -2,7 +2,7 @@
 
 
 
-- 🌱 Estudando HML, CSS e JavaScript.
+- 🌱 Estudando HTML, CSS e JavaScript.
 - 📫 Contate-me no email: gabrielyamaguti.contato@gmail.com.
 
 
