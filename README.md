@@ -1,4 +1,4 @@
-<h1>Olá,<img src="https://user-images.githubusercontent.com/116985295/203150109-3723c0a1-03d0-4397-9d53-c23f0bb82f2c.gif" width="30px"> Eu sou o <b>Gabriel Yamaguti</b></h1>
+Olá,<img src="https://user-images.githubusercontent.com/116985295/203150109-3723c0a1-03d0-4397-9d53-c23f0bb82f2c.gif" width="30px"> Eu sou o <b>Gabriel Yamaguti</b>
 
 
 
@@ -8,8 +8,8 @@
 
 <div align="center">
   <a href="https://github.com/gabrielyamaguti">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gabrielyamaguti&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielyamaguti&layout=compact&langs_count=7&theme=vue-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielyamaguti&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielyamaguti&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
 
 <div style="display: inline_block"><br>
