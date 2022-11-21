@@ -1,4 +1,4 @@
-Olá,<img src="https://user-images.githubusercontent.com/116985295/203150109-3723c0a1-03d0-4397-9d53-c23f0bb82f2c.gif" width="30px"> Eu sou o <b>Gabriel Yamaguti</b>
+<h1>Olá,<img src="https://user-images.githubusercontent.com/116985295/203150109-3723c0a1-03d0-4397-9d53-c23f0bb82f2c.gif" width="30px"> Eu sou o Gabriel Yamaguti</h1>
 
 
 
